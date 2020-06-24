@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26.758" height="20.961" viewBox="0 0 26.758 20.961">
+  <g id="speaker" transform="translate(0 -55.467)">
+    <g id="Group_2786" data-name="Group 2786" transform="translate(6.244 55.467)">
+      <g id="Group_2785" data-name="Group 2785">
+        <path id="Path_4134" data-name="Path 4134" d="M131.954,55.467a1.786,1.786,0,0,0-1.784,1.784v.322l-10.423,4.169a.447.447,0,0,0-.28.414V68.4a.446.446,0,0,0,.28.414l10.423,4.169v.323a1.784,1.784,0,1,0,3.568,0V57.251A1.786,1.786,0,0,0,131.954,55.467Zm.892,17.839a.892.892,0,1,1-1.784,0v-.624a.446.446,0,0,0-.281-.414L120.359,68.1v-5.64l10.423-4.169a.447.447,0,0,0,.281-.414v-.624a.892.892,0,1,1,1.784,0Z" transform="translate(-119.467 -55.467)" fill="#0e34c4"/>
+      </g>
+    </g>
+    <g id="Group_2788" data-name="Group 2788" transform="translate(0 61.71)">
+      <g id="Group_2787" data-name="Group 2787">
+        <path id="Path_4135" data-name="Path 4135" d="M6.689,174.933H3.568a3.568,3.568,0,0,0,0,7.135H6.689a.446.446,0,0,0,.446-.446v-6.244A.446.446,0,0,0,6.689,174.933Zm-.446,6.243H3.568a2.676,2.676,0,1,1,0-5.352H6.244v5.352Z" transform="translate(0 -174.933)" fill="#0e34c4"/>
+      </g>
+    </g>
+    <g id="Group_2790" data-name="Group 2790" transform="translate(19.622 62.602)">
+      <g id="Group_2789" data-name="Group 2789">
+        <path id="Path_4136" data-name="Path 4136" d="M378.73,192.915l-2.676-.892a.446.446,0,0,0-.587.423v4.46a.445.445,0,0,0,.446.446.438.438,0,0,0,.141-.023l2.676-.892a.445.445,0,0,0,.305-.423v-2.676A.446.446,0,0,0,378.73,192.915Zm-.587,2.777-1.784.594v-3.222l1.784.594Z" transform="translate(-375.467 -192.001)" fill="#0e34c4"/>
+      </g>
+    </g>
+    <g id="Group_2792" data-name="Group 2792" transform="translate(2.676 67.954)">
+      <g id="Group_2791" data-name="Group 2791">
+        <path id="Path_4137" data-name="Path 4137" d="M57.4,300.417l-.448-.448-1.308-5.231a.446.446,0,0,0-.433-.338H51.641a.446.446,0,0,0-.434.548l1.784,7.581a.447.447,0,0,0,.434.344.421.421,0,0,0,.085-.008l3.349-.647.013,0a1.075,1.075,0,0,0,.518-.283,1.07,1.07,0,0,0,.007-1.515Zm-.634.88a.179.179,0,0,1-.083.046l-2.92.564L52.2,295.292h2.656l1.254,5.014a.446.446,0,0,0,.117.207l.533.533a.176.176,0,0,1,.051.126A.179.179,0,0,1,56.764,301.3Z" transform="translate(-51.195 -294.4)" fill="#0e34c4"/>
+      </g>
+    </g>
+    <g id="Group_2794" data-name="Group 2794" transform="translate(24.082 64.832)">
+      <g id="Group_2793" data-name="Group 2793">
+        <rect id="Rectangle_300" data-name="Rectangle 300" width="2.676" height="0.892" fill="#0e34c4"/>
+      </g>
+    </g>
+    <g id="Group_2796" data-name="Group 2796" transform="translate(23.852 59.545)">
+      <g id="Group_2795" data-name="Group 2795" transform="translate(0 0)">
+        <rect id="Rectangle_301" data-name="Rectangle 301" width="2.6" height="0.892" transform="translate(0 1.338) rotate(-30.972)" fill="#0e34c4"/>
+      </g>
+    </g>
+    <g id="Group_2798" data-name="Group 2798" transform="translate(23.856 68.909)">
+      <g id="Group_2797" data-name="Group 2797" transform="translate(0 0)">
+        <rect id="Rectangle_302" data-name="Rectangle 302" width="0.892" height="2.6" transform="translate(0 0.765) rotate(-59.036)" fill="#0e34c4"/>
+      </g>
+    </g>
+    <g id="Group_2800" data-name="Group 2800" transform="translate(16.947 57.697)">
+      <g id="Group_2799" data-name="Group 2799">
+        <rect id="Rectangle_303" data-name="Rectangle 303" width="0.892" height="15.163" fill="#0e34c4"/>
+      </g>
+    </g>
+    <g id="Group_2802" data-name="Group 2802" transform="translate(4.46 63.494)">
+      <g id="Group_2801" data-name="Group 2801">
+        <rect id="Rectangle_304" data-name="Rectangle 304" width="0.892" height="1.784" fill="#0e34c4"/>
+      </g>
+    </g>
+    <g id="Group_2804" data-name="Group 2804" transform="translate(2.676 63.494)">
+      <g id="Group_2803" data-name="Group 2803">
+        <rect id="Rectangle_305" data-name="Rectangle 305" width="0.892" height="1.784" fill="#0e34c4"/>
+      </g>
+    </g>
+  </g>
+</svg>

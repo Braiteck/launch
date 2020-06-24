@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="26" viewBox="0 0 16 26">
+  <g id="Group_5625" data-name="Group 5625" transform="translate(-1077 -5264)">
+    <g id="checklist" transform="translate(981 5264)">
+      <path id="Path_8439" data-name="Path 8439" d="M159.1,126.147a.5.5,0,0,0-.707,0l-1.146,1.146-.4-.4a.5.5,0,0,0-.707.707l.75.75a.5.5,0,0,0,.707,0l1.5-1.5A.5.5,0,0,0,159.1,126.147Z" transform="translate(-56.999 -119.701)" fill="#0e34c4"/>
+      <path id="Path_8440" data-name="Path 8440" d="M159.1,216.147a.5.5,0,0,0-.707,0l-1.146,1.146-.4-.4a.5.5,0,0,0-.707.707l.75.75a.5.5,0,0,0,.707,0l1.5-1.5A.5.5,0,0,0,159.1,216.147Z" transform="translate(-56.999 -205.201)" fill="#0e34c4"/>
+      <path id="Path_8441" data-name="Path 8441" d="M158.4,306.147l-1.146,1.146-.4-.4a.5.5,0,1,0-.707.707l.75.75a.5.5,0,0,0,.707,0l1.5-1.5a.5.5,0,1,0-.707-.707Z" transform="translate(-56.999 -290.7)" fill="#0e34c4"/>
+      <path id="Path_8442" data-name="Path 8442" d="M251,156h-4.5a.5.5,0,0,0,0,1H251a.5.5,0,0,0,0-1Z" transform="translate(-142.5 -148.2)" fill="#0e34c4"/>
+      <path id="Path_8443" data-name="Path 8443" d="M251,246h-4.5a.5.5,0,0,0,0,1H251a.5.5,0,0,0,0-1Z" transform="translate(-142.5 -233.7)" fill="#0e34c4"/>
+      <path id="Path_8444" data-name="Path 8444" d="M251.5,336.5a.5.5,0,0,0-.5-.5h-4.5a.5.5,0,0,0,0,1H251A.5.5,0,0,0,251.5,336.5Z" transform="translate(-142.5 -319.2)" fill="#0e34c4"/>
+      <path id="Path_8445" data-name="Path 8445" d="M233,60h-1.5a.5.5,0,1,0,0,1H233a.5.5,0,0,0,0-1Z" transform="translate(-128.25 -57)" fill="#0e34c4"/>
+      <path id="Path_8446" data-name="Path 8446" d="M233.5,426.5a.5.5,0,0,0-.5-.5h-1.5a.5.5,0,1,0,0,1H233A.5.5,0,0,0,233.5,426.5Z" transform="translate(-128.25 -404.7)" fill="#0e34c4"/>
+      <path id="Path_8447" data-name="Path 8447" d="M96,2V23.6a2,2,0,0,0,2,2h3.75a.5.5,0,1,0,0-1H98a1,1,0,0,1-1-1V2a1,1,0,0,1,1-1h12a1,1,0,0,1,1,1V23.6a1,1,0,0,1-1,1h-3.75a.5.5,0,1,0,0,1H110a2,2,0,0,0,2-2V2a2,2,0,0,0-2-2H98A2,2,0,0,0,96,2Z" fill="#0e34c4"/>
+      <circle id="Ellipse_217" data-name="Ellipse 217" cx="0.5" cy="0.5" r="0.5" transform="translate(104 25)" fill="#0e34c4"/>
+    </g>
+  </g>
+</svg>

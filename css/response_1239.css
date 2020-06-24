@@ -1,0 +1,621 @@
+@media (max-width: 1239px)
+{
+    /*-------------------
+        Global styles
+    -------------------*/
+    :root
+    {
+        --font_size_title: 50px;
+    }
+
+
+
+    /*------------
+        Header
+    ------------*/
+    header .logo
+    {
+        width: 180px;
+        height: 140px;
+        padding: 30px;
+    }
+
+
+    header .menu .item + .item
+    {
+        margin-left: 30px;
+    }
+
+    header .menu .item button
+    {
+        line-height: 26px;
+    }
+
+
+    header .contacts .phone
+    {
+        font-size: 22px;
+        line-height: 26px;
+    }
+
+
+
+    /*-------------
+        Sidebar
+    -------------*/
+
+
+
+    /*---------------
+        Page head
+    ---------------*/
+
+
+
+    /*----------------
+        Block head
+    ----------------*/
+    .block_head
+    {
+        margin-bottom: 40px;
+    }
+
+    .block_head .title
+    {
+        line-height: 60px;
+    }
+
+    .block_head .title span
+    {
+        font-size: 70px;
+        line-height: 70px;
+    }
+
+
+
+    /*-------------------
+        First section
+    -------------------*/
+    .first_section .cont
+    {
+        min-height: 500px;
+        padding-bottom: 60px;
+    }
+
+
+    .first_section .info
+    {
+        width: calc(100% - 480px);
+    }
+
+    .first_section .info .title
+    {
+        font-size: 44px;
+        line-height: 50px;
+    }
+
+    .first_section .info .title b
+    {
+        font-size: 70px;
+        line-height: 80px;
+    }
+
+    .first_section .info .title .icon
+    {
+        top: -75px;
+    }
+
+    .first_section .info .sep
+    {
+        width: 300px;
+    }
+
+    .first_section .info .desc
+    {
+        font-size: 26px;
+        line-height: 32px;
+    }
+
+    .first_section .info .btn:after
+    {
+        width: 120px;
+        height: 54px;
+        margin-left: 30px;
+
+        background-size: 100%;
+    }
+
+
+    .first_section .form
+    {
+        width: 440px;
+        padding: 40px 40px 50px;
+    }
+
+    .first_section .form .discount
+    {
+        font-size: 22px;
+        line-height: 28px;
+
+        left: -30px;
+    }
+
+    .first_section .form .discount b
+    {
+        font-size: 35px;
+        line-height: 27px;
+    }
+
+
+    .first_section .logos
+    {
+        margin-top: 35px;
+    }
+
+
+
+    /*-----------
+        Stats
+    -----------*/
+    .stats .item
+    {
+        font-size: 17px;
+        line-height: 21px;
+    }
+
+    .stats .item .val
+    {
+        font-size: 62px;
+        line-height: 62px;
+    }
+
+
+
+    /*--------------
+        Services
+    --------------*/
+    .services .row
+    {
+        margin-top: -50px;
+        padding: 0;
+    }
+
+
+    .services .col
+    {
+        width: calc(50% - 20px);
+    }
+
+    .services .col .title div
+    {
+        font-size: 42px;
+        line-height: 70px;
+    }
+
+    .services .col .title:before
+    {
+        height: 95px;
+    }
+
+
+    .services .col .list .hover
+    {
+        left: 54px;
+    }
+
+    .services .col .list .hover .name
+    {
+        font-size: 22px;
+        line-height: 28px;
+    }
+
+    .services .col .list .hover .desc
+    {
+        margin-top: 15px;
+    }
+
+
+
+    /*-----------
+        Cases
+    -----------*/
+    .cases .row
+    {
+        margin-bottom: -40px;
+        margin-left: -40px;
+    }
+
+    .cases .row > *
+    {
+        width: calc(33.333% - 40px);
+        margin-bottom: 40px;
+        margin-left: 40px;
+    }
+
+
+    .cases .case .name
+    {
+        margin-top: 20px;
+    }
+
+
+
+    /*-------------
+        You get
+    -------------*/
+    .you_get
+    {
+        padding: 80px 0;
+    }
+
+    .you_get .block_title
+    {
+        line-height: 60px;
+    }
+
+    .you_get .sep
+    {
+        width: 300px;
+        margin-bottom: 35px;
+    }
+
+    .you_get .btn
+    {
+        margin-top: 50px;
+    }
+
+    .you_get .list .img
+    {
+        left: calc(100% + 30px);
+    }
+
+
+
+    /*-------------
+        Reviews
+    -------------*/
+    .reviews
+    {
+        padding: 80px 0 60px;
+    }
+
+
+    .reviews .slider
+    {
+        width: calc(100% - 450px);
+    }
+
+    .reviews .slider:after
+    {
+        display: none;
+    }
+
+
+    .reviews .review
+    {
+        padding: 40px;
+    }
+
+    .reviews .review .logo
+    {
+        margin-bottom: 30px;
+    }
+
+    .reviews .review .text
+    {
+        font-size: 15px;
+        line-height: 23px;
+
+        margin-top: 20px;
+    }
+
+
+    .reviews .info
+    {
+        width: 375px;
+    }
+
+    .reviews .block_title
+    {
+        font-size: var(--font_size_title);
+        line-height: 56px;
+    }
+
+
+
+    /*-------------
+        Clients
+    -------------*/
+    .clients
+    {
+        padding: 60px 0;
+    }
+
+    .clients .block_title
+    {
+        line-height: 56px;
+    }
+
+    .clients .slider
+    {
+        width: calc(100% - 403px);
+        margin-right: 60px;
+    }
+
+
+
+    /*-----------
+        Steps
+    -----------*/
+    .steps
+    {
+        padding: 80px 0;
+    }
+
+    .steps .row
+    {
+        margin-left: -30px;
+    }
+
+    .steps .row > *
+    {
+        margin-left: 30px;
+    }
+
+    .steps .item .icon
+    {
+        width: 91px;
+        height: 91px;
+    }
+
+    .steps .item:after
+    {
+        left: 80px;
+
+        width: calc(100% + 45px);
+        height: 35px;
+    }
+
+    .steps .item:before
+    {
+        left: 120px;
+    }
+
+    .steps .item:nth-child(4n):after
+    {
+        display: block;
+    }
+
+    .steps .item:nth-child(3):after,
+    .steps .item:last-child:after
+    {
+        display: none;
+    }
+
+
+    .steps .btn
+    {
+        margin-top: 60px;
+    }
+
+
+
+    /*------------
+        Why we
+    ------------*/
+    .why_we
+    {
+        padding: 80px 0;
+    }
+
+    .why_we .advantages
+    {
+        font-size: 18px;
+        line-height: 24px;
+
+        padding: 0;
+    }
+
+    .why_we .advantages .col > * + *
+    {
+        margin-top: 30px;
+    }
+
+    .why_we .advantages .col br
+    {
+        display: none;
+    }
+
+    .why_we .advantages .bg,
+    .why_we .advantages .bg2
+    {
+        display: none;
+    }
+
+
+    .why_we .certs
+    {
+        margin-top: 60px;
+    }
+
+    .why_we .certs .cert
+    {
+        font-size: 15px;
+        line-height: 19px;
+
+        padding: 40px 30px;
+    }
+
+
+
+    /*------------------
+        Has question
+    ------------------*/
+    .has_question
+    {
+        padding: 60px 0 45px;
+    }
+
+
+
+    /*------------------
+        Service head
+    ------------------*/
+    .service_head .cont
+    {
+        min-height: 500px;
+        padding-bottom: 60px;
+    }
+
+
+    .service_head .info
+    {
+        width: calc(100% - 480px);
+    }
+
+    .service_head .info .name
+    {
+        font-size: 70px;
+        line-height: 70px;
+    }
+
+    .service_head .info .sep
+    {
+        width: 300px;
+    }
+
+    .service_head .info .desc
+    {
+        font-size: 26px;
+        line-height: 32px;
+    }
+
+
+    .service_head .form
+    {
+        width: 440px;
+        padding: 40px 40px 50px;
+    }
+
+    .service_head .form:after,
+    .service_head .form:before
+    {
+        display: none;
+    }
+
+    .service_head .form .discount
+    {
+        font-size: 22px;
+        line-height: 28px;
+
+        left: -30px;
+    }
+
+    .service_head .form .discount b
+    {
+        font-size: 35px;
+        line-height: 27px;
+    }
+
+
+    .service_head .logos
+    {
+        margin-top: 35px;
+    }
+
+
+
+    /*-------------------------
+        Distinctive feature
+    -------------------------*/
+    .distinctive_feature
+    {
+        padding: 80px 0;
+    }
+
+    .distinctive_feature .block_title
+    {
+        line-height: 60px;
+    }
+
+    .distinctive_feature .sep
+    {
+        width: 300px;
+        margin-bottom: 35px;
+    }
+
+    .distinctive_feature .btn
+    {
+        margin-top: 50px;
+    }
+
+    .distinctive_feature .list .img
+    {
+        left: calc(100% + 30px);
+
+        width: 100%;
+    }
+
+
+
+    /*---------------------------
+        Performance indicator
+    ---------------------------*/
+    .performance_indicator
+    {
+        padding: 80px 0;
+    }
+
+    .performance_indicator .block_title
+    {
+        line-height: 60px;
+    }
+
+
+    .performance_indicator .chart
+    {
+        width: calc(100% - 450px);
+    }
+
+
+    .performance_indicator .vals
+    {
+        width: 410px;
+        max-width: 100%;
+    }
+
+    .performance_indicator .vals .val
+    {
+        font-size: 42px;
+        line-height: 74px;
+
+        width: 150px;
+        height: 74px;
+    }
+
+    .performance_indicator .vals .val + *
+    {
+        width: calc(100% - 175px);
+    }
+
+
+
+    /*------------
+        Footer
+    ------------*/
+    footer
+    {
+        padding: 40px 0;
+    }
+
+    footer .menu .item + .item
+    {
+        margin-left: 30px;
+    }
+
+
+
+    /*-----------
+        PopUp
+    -----------*/
+}

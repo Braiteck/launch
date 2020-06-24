@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24.166" height="24.194" viewBox="0 0 24.166 24.194">
+  <g id="Group_5726" data-name="Group 5726" transform="translate(-370.001 -4983.805)">
+    <g id="talk" transform="translate(369.722 4983.805)">
+      <g id="Group_5227" data-name="Group 5227" transform="translate(13.586 11.694)">
+        <g id="Group_5226" data-name="Group 5226">
+          <path id="Path_8496" data-name="Path 8496" d="M271.941,240.468c-1.089,0-1.21-.484-1.21-.726a4.014,4.014,0,0,0,2.419-3.831v-.282A3.614,3.614,0,0,0,269.521,232h-4.839a.381.381,0,0,0-.4.4,3.62,3.62,0,0,0,.968,2.46,5.831,5.831,0,0,0-.161,1.169,4.075,4.075,0,0,0,2.419,3.71c0,.242-.121.726-1.21.726a2,2,0,0,0-2.016,2.016V244.5h.806v-2.016a1.188,1.188,0,0,1,1.21-1.21c1.25,0,2.016-.6,2.016-1.613v-.2a.387.387,0,0,0-.282-.363,3.265,3.265,0,0,1-2.137-3.065,2.48,2.48,0,0,1,.04-.565,3.652,3.652,0,0,0,1.976.565h4.436a3.175,3.175,0,0,1-2.137,3.024.387.387,0,0,0-.282.363v.242c0,1.008.766,1.613,2.016,1.613a1.188,1.188,0,0,1,1.21,1.21V244.5h.806v-2.016A2,2,0,0,0,271.941,240.468Zm-4.032-5.242a2.821,2.821,0,0,1-2.782-2.419h4.4a2.821,2.821,0,0,1,2.782,2.419Z" transform="translate(-264.279 -232)" fill="#0e34c4"/>
+        </g>
+      </g>
+      <g id="Group_5229" data-name="Group 5229" transform="translate(0.279)">
+        <g id="Group_5228" data-name="Group 5228" transform="translate(0)">
+          <path id="Path_8497" data-name="Path 8497" d="M24.433,10.888V4.032a1.559,1.559,0,0,0-1.573-1.613H14.8V1.613A1.618,1.618,0,0,0,13.183,0H1.892A1.618,1.618,0,0,0,.279,1.613v8.871a3.9,3.9,0,0,0,1.815,3.629l.4-.686a3.206,3.206,0,0,1-1.411-2.944V1.613A.809.809,0,0,1,1.892.806H13.183a.809.809,0,0,1,.806.806V9.275a.809.809,0,0,1-.806.806H6.005a2.521,2.521,0,0,0-2.5,2.178V12.5h.806v-.161a1.7,1.7,0,0,1,1.694-1.452h7.178A1.618,1.618,0,0,0,14.8,9.275h4.839a2,2,0,0,1,2.016,2.016h.806a2.805,2.805,0,0,0-2.823-2.823H14.8V3.226h8.065a.809.809,0,0,1,.806.806v6.855a3.515,3.515,0,0,1-.726,2.339l.6.524A4.058,4.058,0,0,0,24.433,10.888Z" transform="translate(-0.279 0)" fill="#0e34c4"/>
+        </g>
+      </g>
+      <g id="Group_5231" data-name="Group 5231" transform="translate(2.698 11.681)">
+        <g id="Group_5230" data-name="Group 5230">
+          <path id="Path_8498" data-name="Path 8498" d="M55.941,240.618a1.2,1.2,0,0,1-1.21-1.129,4.045,4.045,0,1,0-5.323-2.1,4.093,4.093,0,0,0,2.1,2.1,1.2,1.2,0,0,1-1.21,1.129,2,2,0,0,0-2.016,2.016v1.613h.806v-1.613a1.188,1.188,0,0,1,1.21-1.21,2,2,0,0,0,2.016-2.016v-.2a.387.387,0,0,0-.282-.363,3.263,3.263,0,0,1-2.137-2.621H51.1a.573.573,0,0,0,.242-.081l.968-.645.968.645a.573.573,0,0,0,.242.081H56.3a3.2,3.2,0,0,1-2.137,2.621.387.387,0,0,0-.282.363v.2a2,2,0,0,0,2.016,2.016,1.188,1.188,0,0,1,1.21,1.21v1.613h.806v-1.613A1.939,1.939,0,0,0,55.941,240.618Zm-2.3-5.242-1.089-.726a.437.437,0,0,0-.444,0l-1.129.726H49.932a3.168,3.168,0,0,1,3.589-2.782,3.21,3.21,0,0,1,2.782,2.782Z" transform="translate(-48.279 -231.733)" fill="#0e34c4"/>
+        </g>
+      </g>
+      <g id="Group_5233" data-name="Group 5233" transform="translate(2.142 1.834)">
+        <g id="Group_5232" data-name="Group 5232">
+          <rect id="Rectangle_1960" data-name="Rectangle 1960" width="8" height="1" transform="translate(0.458 0.361)" fill="#0e34c4"/>
+        </g>
+      </g>
+      <g id="Group_5235" data-name="Group 5235" transform="translate(2.142 3.697)">
+        <g id="Group_5234" data-name="Group 5234" transform="translate(0 0)">
+          <rect id="Rectangle_1961" data-name="Rectangle 1961" width="2" transform="translate(0.458 0.498)" fill="#0e34c4"/>
+        </g>
+      </g>
+      <g id="Group_5237" data-name="Group 5237" transform="translate(5.497 3.697)">
+        <g id="Group_5236" data-name="Group 5236" transform="translate(0 0)">
+          <rect id="Rectangle_1962" data-name="Rectangle 1962" width="6" transform="translate(0.105 0.498)" fill="#0e34c4"/>
+        </g>
+      </g>
+      <g id="Group_5239" data-name="Group 5239" transform="translate(2.142 5.188)">
+        <g id="Group_5238" data-name="Group 5238" transform="translate(0 0)">
+          <rect id="Rectangle_1963" data-name="Rectangle 1963" width="1" height="1" transform="translate(0.458 0.006)" fill="#0e34c4"/>
+        </g>
+      </g>
+      <g id="Group_5241" data-name="Group 5241" transform="translate(4.006 5.188)">
+        <g id="Group_5240" data-name="Group 5240" transform="translate(0 0)">
+          <rect id="Rectangle_1964" data-name="Rectangle 1964" width="3" height="1" transform="translate(-0.405 0.006)" fill="#0e34c4"/>
+        </g>
+      </g>
+      <g id="Group_5243" data-name="Group 5243" transform="translate(8.106 5.188)">
+        <g id="Group_5242" data-name="Group 5242" transform="translate(0 0)">
+          <rect id="Rectangle_1965" data-name="Rectangle 1965" width="3" height="1" transform="translate(0.495 0.006)" fill="#0e34c4"/>
+        </g>
+      </g>
+      <g id="Group_5245" data-name="Group 5245" transform="translate(17.05 4.815)">
+        <g id="Group_5244" data-name="Group 5244" transform="translate(0 0)">
+          <rect id="Rectangle_1966" data-name="Rectangle 1966" width="6" transform="translate(-0.448 0.379)" fill="#0e34c4"/>
+        </g>
+      </g>
+      <g id="Group_5247" data-name="Group 5247" transform="translate(15.559 6.306)">
+        <g id="Group_5246" data-name="Group 5246" transform="translate(0 0)">
+          <rect id="Rectangle_1967" data-name="Rectangle 1967" width="3" height="1" transform="translate(0.042 -0.112)" fill="#0e34c4"/>
+        </g>
+      </g>
+      <g id="Group_5249" data-name="Group 5249" transform="translate(19.286 6.306)">
+        <g id="Group_5248" data-name="Group 5248" transform="translate(0 0)">
+          <rect id="Rectangle_1968" data-name="Rectangle 1968" width="3" height="1" transform="translate(0.316 -0.112)" fill="#0e34c4"/>
+        </g>
+      </g>
+      <g id="Group_5251" data-name="Group 5251" transform="translate(15.559 4.815)">
+        <g id="Group_5250" data-name="Group 5250" transform="translate(0 0)">
+          <rect id="Rectangle_1969" data-name="Rectangle 1969" width="1" transform="translate(0.042 0.379)" fill="#0e34c4"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

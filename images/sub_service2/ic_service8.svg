@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24.706" height="24.706" viewBox="0 0 24.706 24.706">
+  <g id="print" transform="translate(0.1 0.1)">
+    <g id="Group_2772" data-name="Group 2772">
+      <g id="Group_2771" data-name="Group 2771">
+        <path id="Path_4103" data-name="Path 4103" d="M21.647,11.436H18.788V2.859a.408.408,0,0,0-.143-.31L15.786.1A.408.408,0,0,0,15.52,0H6.126a.408.408,0,0,0-.408.408V11.436H2.859A2.862,2.862,0,0,0,0,14.3v5.718a.408.408,0,0,0,.408.408H4.032a.408.408,0,0,0,0-.817H.817V14.3a2.045,2.045,0,0,1,2.042-2.042H21.647A2.045,2.045,0,0,1,23.689,14.3V19.6H20.825a.408.408,0,0,0,0,.817H24.1a.408.408,0,0,0,.408-.408V14.3A2.862,2.862,0,0,0,21.647,11.436Zm-3.676,0H6.535V.817h8.834l2.6,2.23Z" fill="#0e34c4" stroke="#0e34c4" stroke-width="0.2"/>
+      </g>
+    </g>
+    <g id="Group_2774" data-name="Group 2774" transform="translate(4.084 17.154)">
+      <g id="Group_2773" data-name="Group 2773">
+        <path id="Path_4104" data-name="Path 4104" d="M96.735,342.844,95.1,336.31a.408.408,0,0,0-.4-.31H82.044a.408.408,0,0,0-.4.31l-1.634,6.535a.408.408,0,0,0,.4.507H96.339a.408.408,0,0,0,.4-.507Zm-15.8-.31,1.43-5.718H94.386l1.43,5.718Z" transform="translate(-80.002 -336)" fill="#0e34c4" stroke="#0e34c4" stroke-width="0.2"/>
+      </g>
+    </g>
+    <g id="Group_2776" data-name="Group 2776" transform="translate(6.943 20.83)">
+      <g id="Group_2775" data-name="Group 2775">
+        <path id="Path_4105" data-name="Path 4105" d="M146.211,408h-9.8a.408.408,0,0,0,0,.817h9.8a.408.408,0,1,0,0-.817Z" transform="translate(-136 -408)" fill="#0e34c4" stroke="#0e34c4" stroke-width="0.2"/>
+      </g>
+    </g>
+    <g id="Group_2778" data-name="Group 2778" transform="translate(6.943 22.055)">
+      <g id="Group_2777" data-name="Group 2777">
+        <path id="Path_4106" data-name="Path 4106" d="M146.211,432h-9.8a.408.408,0,0,0,0,.817h9.8a.408.408,0,1,0,0-.817Z" transform="translate(-136 -432)" fill="#0e34c4" stroke="#0e34c4" stroke-width="0.2"/>
+      </g>
+    </g>
+    <g id="Group_2780" data-name="Group 2780" transform="translate(4.493 15.52)">
+      <g id="Group_2779" data-name="Group 2779">
+        <path id="Path_4107" data-name="Path 4107" d="M103.112,304h-14.7a.408.408,0,1,0,0,.817h14.7a.408.408,0,1,0,0-.817Z" transform="translate(-88 -304)" fill="#0e34c4" stroke="#0e34c4" stroke-width="0.2"/>
+      </g>
+    </g>
+  </g>
+</svg>

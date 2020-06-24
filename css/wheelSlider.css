@@ -1,0 +1,277 @@
+/* Container */
+.wheelSlider-container
+{
+    position: relative;
+
+    visibility: hidden;
+
+    width: 100%;
+
+    -webkit-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none;
+    transition: opacity .2s linear;
+    pointer-events: none;
+
+    opacity: 0;
+
+    -webkit-touch-callout: none;
+}
+
+.wheelSlider-container.loaded
+{
+    visibility: visible;
+
+    pointer-events: auto;
+
+    opacity: 1;
+}
+
+
+/* Slide */
+.wheelSlider-container .slide
+{
+    position: absolute;
+    z-index: 3;
+    top: 0;
+    left: 0;
+
+    visibility: hidden;
+
+    width: 100%;
+    min-height: 100%;
+
+    transition: .5s linear;
+    pointer-events: none;
+
+    opacity: 0;
+}
+
+
+.wheelSlider-container .slide.next,
+.wheelSlider-container .slide.prev,
+.wheelSlider-container .slide.next_next,
+.wheelSlider-container .slide.prev_prev
+{
+    visibility: visible;
+
+    pointer-events: auto;
+}
+
+.wheelSlider-container .slide.next,
+.wheelSlider-container .slide.prev
+{
+    z-index: 4;
+
+    transform: scale(.95);
+}
+
+.wheelSlider-container .slide.next_next,
+.wheelSlider-container .slide.prev_prev
+{
+    transform: scale(.9);
+}
+
+.wheelSlider-container .slide.prev
+{
+    left: calc(-2.5% - 24px);
+
+    opacity: 1;
+}
+
+.wheelSlider-container .slide.prev_prev
+{
+    left: calc(-5% - 48px);
+
+    opacity: 1;
+}
+
+.wheelSlider-container .slide.next
+{
+    left: calc(2.5% + 24px);
+}
+
+.wheelSlider-container .slide.next_next
+{
+    left: calc(5% + 48px);
+}
+
+.wheelSlider-container .slide.now
+{
+    z-index: 5;
+
+    visibility: visible;
+
+    pointer-events: auto;
+
+    opacity: 1;
+}
+
+
+/* Dots */
+.wheelSlider-container.with_dots
+{
+    margin-bottom: 85px;
+}
+
+.wheelSlider-container .dots
+{
+    position: absolute;
+    z-index: 9;
+    bottom: -71px;
+    left: 50%;
+
+    display: flex;
+
+    height: 16px;
+    margin: 0;
+
+    transform: translateX(-50%);
+    pointer-events: none;
+
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    flex-wrap: wrap;
+}
+
+.wheelSlider-container .dots > * + *
+{
+    margin-left: 14px;
+}
+
+.wheelSlider-container .dots button
+{
+    display: block;
+    overflow: hidden;
+
+    width: 16px;
+    height: 16px;
+
+    cursor: pointer;
+    transition: .2s linear;
+    text-indent: -9999px;
+    pointer-events: auto;
+
+    border-radius: 50%;
+    background: #fff;
+}
+
+.wheelSlider-container .dots button:hover,
+.wheelSlider-container .dots button.active
+{
+    background: none;
+    box-shadow: 0 0 0 2px #fff;
+}
+
+
+/* Arrows */
+.wheelSlider-container .wheelSlider-arrow
+{
+    position: absolute;
+    z-index: 10;
+    bottom: -85px;
+
+    display: flex;
+    overflow: hidden;
+
+    width: 43px;
+    height: 43px;
+    margin: auto;
+
+    cursor: pointer;
+    text-indent: -9999px;
+
+    border: none;
+    border-radius: 50%;
+    background: #fff;
+
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    flex-wrap: wrap;
+}
+
+.wheelSlider-container .wheelSlider-arrow[data-action='prev']
+{
+    left: 50%;
+
+    margin-left: -43px;
+}
+
+.wheelSlider-container .wheelSlider-arrow[data-action='next']
+{
+    right: 50%;
+
+    margin-right: -43px;
+}
+
+.wheelSlider-container .wheelSlider-arrow span
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    display: block;
+
+    width: 100%;
+    height: 100%;
+
+    background: url(../images/ic_slider_arrow.svg) 50% no-repeat;
+}
+
+.wheelSlider-container .wheelSlider-arrow[data-action='next'] span
+{
+    transform: rotate(-180deg);
+}
+
+
+/* Arrows - vertical */
+.wheelSlider-container.vertical
+{
+    margin-top: 86px !important;
+    margin-bottom: 86px !important;
+}
+
+.wheelSlider-container.vertical .slide.next,
+.wheelSlider-container.vertical .slide.prev
+{
+    visibility: visible;
+
+    opacity: .5;
+}
+
+.wheelSlider-container.vertical .slide.prev
+{
+    top: -50%;
+    left: 0;
+}
+
+.wheelSlider-container.vertical .slide.next
+{
+    top: 50%;
+    left: 0;
+}
+
+
+.wheelSlider-container.vertical .wheelSlider-arrow[data-action='prev']
+{
+    top: -23.5%;
+    left: 50%;
+
+    margin-top: 0;
+
+    transform: rotate(90deg);
+}
+
+.wheelSlider-container.vertical .wheelSlider-arrow[data-action='next']
+{
+    top: auto;
+    right: 50%;
+    bottom: -23.5%;
+
+    margin-top: 0;
+
+    transform: rotate(90deg);
+}

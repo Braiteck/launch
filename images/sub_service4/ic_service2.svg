@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="31" viewBox="0 0 22 31">
+  <g id="Group_5567" data-name="Group 5567" transform="translate(-482 -5343)">
+    <g id="signboard" transform="translate(402 5335)">
+      <path id="Path_4372" data-name="Path 4372" d="M158,75V56.5a.5.5,0,0,0-.5-.5h-13a.5.5,0,0,0-.5.5V75a.5.5,0,0,0,.5.5h13A.5.5,0,0,0,158,75Zm-1-.5H145V57h12Z" transform="translate(-60 -45)" fill="#0e34c4"/>
+      <path id="Path_4373" data-name="Path 4373" d="M101.5,38H95.361l-.386-1.158A.5.5,0,0,0,94.5,36.5h-1v-3H94a.5.5,0,0,0,.5-.5V32H99a.5.5,0,0,0,.5-.5V10a.5.5,0,0,0-.5-.5H94.5v-1A.5.5,0,0,0,94,8H88a.5.5,0,0,0-.5.5v1H83a.5.5,0,0,0-.5.5V31.5a.5.5,0,0,0,.5.5h4.5v1a.5.5,0,0,0,.5.5h.5v3h-1a.5.5,0,0,0-.474.342L86.639,38H80.5a.5.5,0,0,0,0,1h21a.5.5,0,1,0,0-1Zm-8-5.5h-5V32h5Zm-1,1v3h-3v-3ZM88.5,9h5v.5h-5Zm-5,22V10.5h15V31Zm4.194,7,.167-.5h6.279l.167.5Z" fill="#0e34c4"/>
+      <path id="Path_4374" data-name="Path 4374" d="M168.5,329H172a.5.5,0,1,0,0-1h-3.5a.5.5,0,0,0,0,1Z" transform="translate(-82.5 -300)" fill="#0e34c4"/>
+      <path id="Path_4375" data-name="Path 4375" d="M249,328h-.5a.5.5,0,0,0,0,1h.5a.5.5,0,0,0,0-1Z" transform="translate(-157.5 -300)" fill="#0e34c4"/>
+      <path id="Path_4376" data-name="Path 4376" d="M204.146,114.353a.5.5,0,0,0,.707,0l5.5-5.5a.5.5,0,1,0-.707-.707l-5.5,5.5A.5.5,0,0,0,204.146,114.353Z" transform="translate(-116.25 -93.75)" fill="#0e34c4"/>
+      <path id="Path_4377" data-name="Path 4377" d="M211.853,192.146a.5.5,0,0,0-.707,0l-3,3a.5.5,0,0,0,.707.707l3-3A.5.5,0,0,0,211.853,192.146Z" transform="translate(-120 -172.5)" fill="#0e34c4"/>
+      <path id="Path_4378" data-name="Path 4378" d="M240.146,196.146a.5.5,0,0,0,.707.707l4-4a.5.5,0,1,0-.707-.707Z" transform="translate(-150 -172.5)" fill="#0e34c4"/>
+      <path id="Path_4379" data-name="Path 4379" d="M184.5,94.25a.5.5,0,0,0,.354-.146l1.25-1.25a.5.5,0,1,0-.707-.707l-1.25,1.25a.5.5,0,0,0,.354.854Z" transform="translate(-97.5 -78.75)" fill="#0e34c4"/>
+      <path id="Path_4380" data-name="Path 4380" d="M304.146,286.1a.5.5,0,0,0,.707,0l1.25-1.25a.5.5,0,0,0-.707-.707l-1.25,1.25A.5.5,0,0,0,304.146,286.1Z" transform="translate(-210 -258.75)" fill="#0e34c4"/>
+    </g>
+  </g>
+</svg>

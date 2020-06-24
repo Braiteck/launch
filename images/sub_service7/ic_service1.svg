@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <g id="Group_5577" data-name="Group 5577" transform="translate(-585 -5227.217)">
+    <g id="evator-Lift-door-electronic" transform="translate(583 5225.217)">
+      <path id="Path_4482" data-name="Path 4482" d="M23.633,2H2.367A.367.367,0,0,0,2,2.367V23.633A.367.367,0,0,0,2.367,24H23.633A.367.367,0,0,0,24,23.633V2.367A.367.367,0,0,0,23.633,2ZM7.867,23.267H7.5V7.5h.367Zm4.767,0H8.6V7.5h4.033Zm4.767,0H13.367V7.5H17.4Zm1.1,0h-.367V7.5H18.5Zm4.767,0H19.233V7.133a.367.367,0,0,0-.367-.367H7.133a.367.367,0,0,0-.367.367V23.267H2.733V2.733H23.267Z" fill="#0e34c4"/>
+      <path id="Path_4483" data-name="Path 4483" d="M50.367,34.4h2.2a.367.367,0,0,0,.367-.367V30.367A.367.367,0,0,0,52.567,30h-2.2a.367.367,0,0,0-.367.367v3.667A.367.367,0,0,0,50.367,34.4Zm.367-3.667H52.2v2.933H50.733Z" transform="translate(-30.4 -17.733)" fill="#0e34c4"/>
+      <path id="Path_4484" data-name="Path 4484" d="M19,10h.733v.733H19Z" transform="translate(-10.767 -5.067)" fill="#0e34c4"/>
+      <path id="Path_4485" data-name="Path 4485" d="M23,10h.733v.733H23Z" transform="translate(-13.3 -5.067)" fill="#0e34c4"/>
+      <path id="Path_4486" data-name="Path 4486" d="M27,10h.733v.733H27Z" transform="translate(-15.833 -5.067)" fill="#0e34c4"/>
+      <path id="Path_4487" data-name="Path 4487" d="M31,10h.733v.733H31Z" transform="translate(-18.367 -5.067)" fill="#0e34c4"/>
+      <path id="Path_4488" data-name="Path 4488" d="M35,10h.733v.733H35Z" transform="translate(-20.9 -5.067)" fill="#0e34c4"/>
+      <path id="Path_4489" data-name="Path 4489" d="M39,10h.733v.733H39Z" transform="translate(-23.433 -5.067)" fill="#0e34c4"/>
+      <path id="Path_4490" data-name="Path 4490" d="M43,10h.733v.733H43Z" transform="translate(-25.967 -5.067)" fill="#0e34c4"/>
+      <path id="Path_4491" data-name="Path 4491" d="M53,33h.733v.733H53Z" transform="translate(-32.3 -19.633)" fill="#0e34c4"/>
+      <path id="Path_4492" data-name="Path 4492" d="M53,37h.733v.733H53Z" transform="translate(-32.3 -22.167)" fill="#0e34c4"/>
+    </g>
+  </g>
+</svg>
