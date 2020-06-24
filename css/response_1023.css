@@ -382,6 +382,19 @@
 
 
 
+    .why_we .letters
+    {
+        margin-bottom: -20px;
+    }
+
+    .why_we .letters > *
+    {
+        width: calc(33.333% - 20px);
+        margin-bottom: 20px;
+    }
+
+
+
     /*------------------
         Has question
     ------------------*/

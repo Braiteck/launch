@@ -447,6 +447,23 @@
     }
 
 
+    .why_we .letters
+    {
+        margin-top: 60px;
+    }
+
+    .why_we .letters .letter
+    {
+        font-size: 15px;
+        line-height: 19px;
+    }
+
+    .why_we .letters .letter .name
+    {
+        padding: 20px;
+    }
+
+
 
     /*------------------
         Has question

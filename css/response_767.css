@@ -393,6 +393,24 @@
     }
 
 
+    .why_we .letters
+    {
+        margin-top: 50px;
+    }
+
+    .why_we .letters > *
+    {
+        width: calc(50% - 20px);
+        margin-bottom: 20px;
+    }
+
+    .why_we .letters .letter
+    {
+        font-size: 14px;
+        line-height: 18px;
+    }
+
+
 
     /*------------------
         Has question
