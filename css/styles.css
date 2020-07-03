@@ -727,6 +727,8 @@ header .mob_menu_btn.active span:after
     height: 58px;
     padding: 0 28px;
 
+    transition: margin .2s linear;
+
     border: 1px solid #a40937;
     border-radius: 30px;
     background: #ed1556;
@@ -751,10 +753,24 @@ header .mob_menu_btn.active span:after
     height: calc(100% + 8px);
 
     content: '';
+    transition: .2s linear;
 
     border-top: 1px solid #c50b43;
     border-radius: 34px;
     background: #d6104c url(../images/bg_grid2.svg) 50% 0 no-repeat;
+}
+
+.form .submit:hover .submit_btn
+{
+    margin-top: -4px;
+    margin-bottom: 4px;
+}
+
+.form .submit:hover:before
+{
+    bottom: 3px;
+
+    height: calc(100% + 3px);
 }
 
 
@@ -895,6 +911,8 @@ header .mob_menu_btn.active span:after
     margin-top: 40px;
     padding: 0 28px;
 
+    transition: margin .2s linear;
+
     border: 1px solid #6b76b7;
     border-radius: 30px;
     background: #323296;
@@ -918,6 +936,7 @@ header .mob_menu_btn.active span:after
     height: calc(100% + 9px);
 
     content: '';
+    transition: height .2s linear;
 
     border-top: 1px solid #6b76b7;
     border-radius: 34px;
@@ -937,6 +956,7 @@ header .mob_menu_btn.active span:after
     margin-left: 75px;
 
     content: '';
+    transition: bottom .2s linear;
     pointer-events: none;
 
     background: url(../images/first_section_arrow.svg) 50% 0 no-repeat;
@@ -951,6 +971,22 @@ header .mob_menu_btn.active span:after
     margin-left: 15px;
 
     background: url(../images/ic_link.svg) 0 0 no-repeat;
+}
+
+.first_section .info .btn:hover
+{
+    margin-top: 35px;
+    margin-bottom: 5px;
+}
+
+.first_section .info .btn:hover:before
+{
+    height: calc(100% + 4px);
+}
+
+.first_section .info .btn:hover:after
+{
+    bottom: 25px;
 }
 
 
@@ -1631,6 +1667,7 @@ header .mob_menu_btn.active span:after
     margin-top: 37px;
     padding: 0 28px;
 
+    transition: margin .2s linear;
     text-align: center;
     text-decoration: none;
 
@@ -1658,6 +1695,7 @@ header .mob_menu_btn.active span:after
     height: calc(100% + 8px);
 
     content: '';
+    transition: height .2s linear;
 
     border-top: 1px solid #c50b43;
     border-radius: 36px;
@@ -1686,6 +1724,17 @@ header .mob_menu_btn.active span:after
     display: block;
 
     max-width: 100%;
+}
+
+.services .col .list .hover .details:hover
+{
+    margin-top: 33px;
+    margin-bottom: 4px;
+}
+
+.services .col .list .hover .details:hover:before
+{
+    height: calc(100% + 4px);
 }
 
 
@@ -2208,6 +2257,8 @@ header .mob_menu_btn.active span:after
     height: 58px;
     padding: 0 28px;
 
+    transition: margin .2s linear;
+
     border: 1px solid #a40937;
     border-radius: 30px;
     background: #ed1556;
@@ -2232,10 +2283,22 @@ header .mob_menu_btn.active span:after
     height: calc(100% + 8px);
 
     content: '';
+    transition: height .2s linear;
 
     border-top: 1px solid #c50b43;
     border-radius: 34px;
     background: #d6104c url(../images/bg_grid2.svg) 50% 0 no-repeat;
+}
+
+.you_get .btn button:hover
+{
+    margin-top: -4px;
+    margin-bottom: 4px;
+}
+
+.you_get .btn button:hover:before
+{
+    height: calc(100% + 4px);
 }
 
 
@@ -2482,6 +2545,8 @@ header .mob_menu_btn.active span:after
     margin-top: 37px;
     padding: 0 28px;
 
+    transition: margin .2s linear;
+
     border: 1px solid #6b76b7;
     border-radius: 30px;
     background: #323296;
@@ -2505,6 +2570,7 @@ header .mob_menu_btn.active span:after
     height: calc(100% + 9px);
 
     content: '';
+    transition: height .2s linear;
 
     border-top: 1px solid #6b76b7;
     border-radius: 34px;
@@ -2520,6 +2586,17 @@ header .mob_menu_btn.active span:after
     margin-left: 15px;
 
     background: url(../images/ic_link.svg) 0 0 no-repeat;
+}
+
+.reviews .btn:hover
+{
+    margin-top: 33px;
+    margin-bottom: 4px;
+}
+
+.reviews .btn:hover:before
+{
+    height: calc(100% + 4px);
 }
 
 
@@ -2824,6 +2901,8 @@ header .mob_menu_btn.active span:after
     height: 58px;
     padding: 0 28px;
 
+    transition: margin .2s linear;
+
     border: 1px solid #a40937;
     border-radius: 30px;
     background: #ed1556;
@@ -2848,10 +2927,22 @@ header .mob_menu_btn.active span:after
     height: calc(100% + 8px);
 
     content: '';
+    transition: height .2s linear;
 
     border-top: 1px solid #c50b43;
     border-radius: 34px;
     background: #d6104c url(../images/bg_grid2.svg) 50% 0 no-repeat;
+}
+
+.steps .btn button:hover
+{
+    margin-top: -4px;
+    margin-bottom: 4px;
+}
+
+.steps .btn button:hover:before
+{
+    height: calc(100% + 4px);
 }
 
 
